@@ -35,11 +35,10 @@
 2. #### Prepare any user override files you need
     
     Put those files into **"~/.config/arkenfox/user-overrides/"**<br/>or change the **"user_override_dir"** variable in the script to your directory of choice.
-    > [!IMPORTANT]
+    > ### IMPORTANT!
     > **Do not forget** to set the name of every override file to its corresponding user directory name for it to work.<br/>Example: `1a2b3c4d.FooProfile`<br/>If you don't know the profile directory name, check it in **about:profiles**
 3. #### Start the script and follow instructions
-    > [!CAUTION]
-    > It is highly advised to make a backup of your existing profiles, if you have any
+    > #### It is highly advised to make a backup of your existing profiles, if you have any
     ```sh
     cd ArkenfoxBulkUpdate && ./update-profiles.sh
     ```
