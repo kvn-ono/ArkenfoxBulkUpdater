@@ -26,7 +26,7 @@
 <hr/>
 
 # A brief how-to
-1. #### Clone the repository and start the program
+1. #### Clone the repository
     ```sh
     git clone https://github.com/Bluudek/ArkenfoxBulkUpdate.git
     ```
