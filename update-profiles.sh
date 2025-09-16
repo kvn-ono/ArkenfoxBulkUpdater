@@ -63,6 +63,7 @@ do
             echo "└ No user overrides detected"
         fi
         $TERMINAL -e ${f}/prefsCleaner.sh
+        rm ${f}/updater.sh ${f}/prefsCleaner.sh
     fi
 done
 
