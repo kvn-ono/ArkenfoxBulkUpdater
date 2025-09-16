@@ -77,4 +77,4 @@ else
     echo      "└───────────────────────────────────┘"
 fi
 
-rm -rf ~/Downloads/user.js
+rm -rf repo_dir
