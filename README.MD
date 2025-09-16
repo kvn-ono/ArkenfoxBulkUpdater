@@ -16,7 +16,7 @@
 > Although be careful, read the script before you use it.<br/>
 > If you don't know what this script is exactly doing,<br/>**I ADVISE YOU NOT TO USE IT** or **DO SO AT YOUR OWN RISK**
 
-### For any questions/suggestions about the script, PM me via [SimpleX](https://smp19.simplex.im/a#rnMG2k4tcV0O1fSq6Z4nUtJoppSeIFbk6OwcavN5M_k)
+### For any questions/suggestions about the script,<br/>PM me via [SimpleX](https://smp19.simplex.im/a#rnMG2k4tcV0O1fSq6Z4nUtJoppSeIFbk6OwcavN5M_k) or join the [Discord  server](https://discord.gg/AQrfArcu4q)
 
 
 ### More info about `arkenfox user.js` on its own [repository](https://github.com/arkenfox/user.js)
